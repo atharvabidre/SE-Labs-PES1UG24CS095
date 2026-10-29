@@ -1,0 +1,2 @@
+************* Module smart_home.py
+smart_home.py:1:0: F0001: No module named smart_home.py (fatal)
