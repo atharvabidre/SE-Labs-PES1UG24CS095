@@ -3,7 +3,7 @@
 import json
 import os
 import re
-import subprocess  # nosec B404 - only used by run_scene, which validates its input
+import subprocess  # nosec B404
 
 HUB_HOST = os.environ.get("HUB_HOST", "127.0.0.1")
 HUB_PORT = 8080
